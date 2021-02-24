@@ -1,6 +1,6 @@
 # Node.js error handling
 
-## Resources:
+## Resources
 
 - https://www.toptal.com/nodejs/node-js-error-handling
 - https://www.smashingmagazine.com/2020/08/error-handling-nodejs-error-classes/
