@@ -1,5 +1,7 @@
 # Node.js error handling
 
+This project is a POC of best practices to error handling in Node.js using Express.js
+
 ## Resources
 
 - https://www.toptal.com/nodejs/node-js-error-handling
@@ -9,8 +11,6 @@
 
 - [Node.js](https://nodejs.org/en/) >= 10.22.1
 - [NPM](https://www.npmjs.com/) >= 6.14.6
-
-This project is a POC of best practices to error handling in Node.js using Express.js
 
 ## Start
 
